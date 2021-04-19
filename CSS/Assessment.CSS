@@ -1,0 +1,54 @@
+
+.logo{
+	float: left;
+}
+
+nav{
+	float: left;
+}
+
+nav ul{
+	margin: 0;
+	padding-right: 20px;
+	list-style: none;
+}
+
+nav li{
+	display: inline-block;
+	margin-left: 70px;
+	padding-top: 20px;
+	}
+
+nav a{
+	color: purple;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-family: 'RocknRoll One', sans-serif;
+}
+
+nav a:hover{
+	color: black;
+}
+
+h1{
+	text-align: center;
+	text-align: middle;
+	padding-top: 30px;
+	font-family: 'Prompt', sans-serif;
+}
+
+p{
+	text-align: center;
+	text-align: middle;
+	
+}
+
+h3{
+	text-align: center;
+	padding-top: 150px;
+	font-family: 'Ubuntu', sans-serif;
+
+}
+p{
+	font-family: 'PT Serif', serif;
+}

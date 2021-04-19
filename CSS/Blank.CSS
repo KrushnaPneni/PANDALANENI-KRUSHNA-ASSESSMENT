@@ -1,0 +1,30 @@
+.logo{
+	float: left;
+}
+
+nav{
+	float: left;
+}
+nav ul{
+	margin: 0;
+	padding-right: 20px;
+	list-style: none;
+}
+
+nav li{
+	display: inline-block;
+	margin-left: 70px;
+	padding-top: 20px;
+	}
+
+nav a{
+	color: purple;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-family: 'RocknRoll One', sans-serif;
+}
+
+nav a:hover{
+	color: black;
+
+}

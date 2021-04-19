@@ -1,0 +1,52 @@
+body{
+	margin: 0;
+	background-color: darkviolet;
+}
+
+header{
+	text-align: center;
+	padding-top: 250px
+}
+
+header h1{
+	color: darkblue;
+	font-family: 'Zen Dots', cursive;
+	font-size: 35px
+
+}
+
+.container{
+	background:	powderblue;
+}
+
+.logo{
+	float: left;
+}
+
+nav{
+	float: left;
+}
+
+nav ul{
+	margin: 0;
+	padding-right: 20px;
+	list-style: none;
+}
+
+nav li{
+	display: inline-block;
+	margin-left: 70px;
+	padding-top: 25px;
+}
+
+nav a{
+	color: #201dc4;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-family: 'RocknRoll One', sans-serif;
+}
+
+nav a:hover{
+	color: green;
+
+}

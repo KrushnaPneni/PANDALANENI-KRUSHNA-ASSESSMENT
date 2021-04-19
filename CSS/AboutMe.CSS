@@ -1,0 +1,67 @@
+
+.factfile{
+	padding-top: 50px;
+	text-align: center;
+}
+
+
+img{
+	border-radius: 400px;
+	text-align: center;
+	text-align: middle;
+}
+
+header{
+	text-align: center;
+	padding-right: 130px;
+	padding top: 40px;
+}
+
+
+.container{
+	background:	powderblue;
+}
+
+.logo{
+	float: left;
+}
+
+nav{
+	float: left;
+}
+
+.paragraph{
+	text-align: center;
+}
+
+nav ul{
+	margin: 0;
+	padding-right: 20px;
+	list-style: none;
+}
+
+nav li{
+	display: inline-block;
+	margin-left: 70px;
+	padding-top: 20px;
+	}
+
+nav a{
+	color: purple;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-family: 'RocknRoll One', sans-serif;
+}
+
+nav a:hover{
+	color: black;
+
+}
+
+h1{
+	font-family: 'RocknRoll One', sans-serif;
+}
+
+p{
+	font-family: 'Lexend', sans-serif;
+}
